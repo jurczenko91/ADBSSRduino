@@ -1,6 +1,7 @@
 # ADBSSRduino
  **Poly 800 style envelope generator on Arduino**
- <br> <br>
+
+<img src="https://github.com/jurczenko91/ADBSSRduino/blob/main/ADBSSRduino_module.jpg" alt="DIY module" width="500"/>
  
  I made an extended version of the ADSRduino envelope generator by [m0xpd](https://github.com/m0xpd). You can find original version here: https://github.com/m0xpd/ADSRduino.
 
