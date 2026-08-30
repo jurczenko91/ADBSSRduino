@@ -19,7 +19,7 @@
  
 ## Schematics
 
- ![Schematics](https://github.com/jurczenko91/ADBSSRduino/blob/main/ADBSSR%20generator.png)
+ ![Schematics](https://github.com/jurczenko91/ADBSSRduino/blob/main/ADBSSR_generator_schematic.png)
 
 There's also an ability to switch on the loop mode connecting digital pin 3 to ground. Also, there is the recommendation to add a zener diode from the input to ground to protect the Arduino. I omitted those.<br>
 I highly recommend to read **m0xpd**'s article on the Blogspot: https://m0xpd.blogspot.com/2017/02/signal-processing-on-arduino.html. 
